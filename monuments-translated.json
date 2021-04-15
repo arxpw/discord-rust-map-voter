@@ -1,0 +1,13 @@
+{
+  "Airfield": "Airfield",
+  "Excavator": "Excavator",
+  "Junkyard": "Junk",
+  "Launch_Site": "Launch",
+  "Military_Tunnels": "MilTuns",
+  "Powerplant": "Power",
+  "Satellite_Dish": "Satellite",
+  "Sewer_Branch": "Sewer Branch",
+  "Sphere_Tank": "Dome",
+  "Trainyard": "Train",
+  "Water_Treatment": "Water"
+}
