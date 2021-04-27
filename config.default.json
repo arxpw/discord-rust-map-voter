@@ -1,5 +1,15 @@
 {
   "token": "AAAAAAAAAAAAAAAAAAAAAAAAAA",
   "prefix": "!rl",
-  "maps": 3
+  "maps": 3,
+  "wipeDay": "wednesday",
+  "timeBetweenWipes": [1, "week"],
+  "wipeTime": {
+    "hour": 19,
+    "minute": 30
+  },
+  "wipeTimeBetweenVoting": {
+    "type": "hours",
+    "amount": -3
+  }
 }
