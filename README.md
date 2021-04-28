@@ -17,7 +17,7 @@ Project setup
 - https://git-scm.com/downloads
 
 3. Run the following command wherever you want the project to go:
- - `git clone https://github.com/arxpw/rustlife-ronald`
+ - `git clone https://github.com/arxpw/discord-rust-map-voter`
 
 4. Go into the project and run `npm i` to install the dependencies
 
