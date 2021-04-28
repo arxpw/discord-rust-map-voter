@@ -1,6 +1,12 @@
-### Rustlife ronald bot
+### A discord bot for map voting
 
-For map voting, etc
+Basic commands
+- !rl map ( announces in the channel you are in )
+- !rl seeds
+- !rl add-seed
+
+Todo
+- !rl delseed
 
 Project setup
 
